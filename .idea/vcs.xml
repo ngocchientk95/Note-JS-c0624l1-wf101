@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SS2/ss2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bai_tap_ss3_1/your-name" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bai_tap_ss3_2/your-name" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bai_tap_ss3_3/your-name" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bai_tap_ss3_4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bai_tap_ss3_4/your-name" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss1/your-name" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss4/components" vcs="Git" />
   </component>
 </project>
